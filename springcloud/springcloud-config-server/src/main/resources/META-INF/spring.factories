@@ -1,0 +1,2 @@
+org.springframework.boot.env.PropertySourceLoader=com._1813qt.learn.springcloudconfigserver.config.MyPropertiesHandler
+java.util.HashMap=com._1813qt.learn.springcloudconfigserver.config.TestFactories

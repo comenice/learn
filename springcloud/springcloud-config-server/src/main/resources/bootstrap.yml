@@ -7,3 +7,5 @@ spring:
         git:
           uri: https://github.com/comenice/learn.git
           search-paths: springcloud
+server:
+  port: 8770
